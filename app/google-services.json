@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "330313304341",
+    "firebase_url": "https://foodzoo-food-delivery-ap-48ba6.firebaseio.com",
+    "project_id": "foodzoo-food-delivery-ap-48ba6",
+    "storage_bucket": "foodzoo-food-delivery-ap-48ba6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330313304341:android:fe7eef8885288089b4011c",
+        "android_client_info": {
+          "package_name": "com.foodzoo.foodzoo_fooddeliveryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330313304341-qsoniq917j993su44u10phdm5fr0jk10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLiNF_03pCVO_kQxCmFQx4usj_geGAykI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330313304341-qsoniq917j993su44u10phdm5fr0jk10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
